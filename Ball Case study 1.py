@@ -1,4 +1,5 @@
-# Import required library
+# Import required library:
+
 from sklearn.linear_model import LogesticRegression
 
 # Load the dataset
