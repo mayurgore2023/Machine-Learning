@@ -57,7 +57,7 @@ print("----------------------------------------------------------------")
 
 # combine the Dataframe with original Data :
 
-Datframe_And_Data = pd.concat([Data,Dataframe],axis=1)  # .concat = Join to data Frames \ axis = to concat along
+Datframe_And_Data = pd.concat([Data,Dataframe],axis=1)  # .concat = Join to data Frames \ axis = to concat along.
 print(Datframe_And_Data)
 
 
