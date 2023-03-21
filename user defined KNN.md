@@ -13,7 +13,7 @@ class MarvellousKNN():
         self.TrainingData = TrainingData
         self.TrainingTarget =TrainingTarget
 
-#Testing logic:
+ # Testing logic:
     def predict(self,TestData):
         predictions = []
         for row in TestData:
