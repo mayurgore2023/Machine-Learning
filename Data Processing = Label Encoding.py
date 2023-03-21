@@ -31,7 +31,7 @@ Dataset['Insurance'] = Encoder.fit_transform(Dataset['Insurance'])
 
 New_Dataset  = Dataset
 
-#separating of Dependant And independant Variables
+#separating of Dependant And independant Variables:
 
 X = New_Dataset[['Name','Age','Salary']].values
 print(X)
