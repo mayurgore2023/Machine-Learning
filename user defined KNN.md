@@ -5,7 +5,8 @@
 def euc(a,b):
     return distance.euclidean(a,b)
 
-# class include te testing/training and finding out nearest neighbour logic
+# class include te testing/training and finding out nearest neighbour logic:
+
 class MarvellousKNN():
 
 # Training logic:
