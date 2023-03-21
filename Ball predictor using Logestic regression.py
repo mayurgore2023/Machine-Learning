@@ -1,4 +1,6 @@
 
+# pay predictor using Logestic regression:
+
 # load the data set:
 import pandas as pd
 
