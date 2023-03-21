@@ -56,7 +56,7 @@ print("-----------------------------------------------------------------------")
 from sklearn.linear_model import LogisticRegression
 
 classifier = LogisticRegression()
-print("-----------------------------------------------------------------------")
+print("------------------------------------------------------------------------")
 
 # if we have to tune the parameters:
 from sklearn.model_selection import GridSearchCV
