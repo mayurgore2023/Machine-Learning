@@ -1,4 +1,4 @@
-# Import required library
+# Import required library:
 from sklearn import tree
 
 # Load the dataset
