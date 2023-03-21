@@ -1,3 +1,4 @@
+# play predictor case study using KNN classifier:
 
 import pandas as pd
 from sklearn import preprocessing
