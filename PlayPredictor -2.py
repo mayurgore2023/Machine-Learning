@@ -1,3 +1,6 @@
+
+# Play Predictor case study using Dicision tree classifer:
+
 import pandas as pd
 
 
